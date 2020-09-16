@@ -1,0 +1,7 @@
+D:\m - code\KK3\RumahSakit\RumahSakit\bin\Debug\RumahSakit.exe.config
+D:\m - code\KK3\RumahSakit\RumahSakit\bin\Debug\RumahSakit.exe
+D:\m - code\KK3\RumahSakit\RumahSakit\bin\Debug\RumahSakit.pdb
+D:\m - code\KK3\RumahSakit\RumahSakit\obj\Debug\RumahSakit.csprojAssemblyReference.cache
+D:\m - code\KK3\RumahSakit\RumahSakit\obj\Debug\RumahSakit.csproj.CoreCompileInputs.cache
+D:\m - code\KK3\RumahSakit\RumahSakit\obj\Debug\RumahSakit.exe
+D:\m - code\KK3\RumahSakit\RumahSakit\obj\Debug\RumahSakit.pdb
